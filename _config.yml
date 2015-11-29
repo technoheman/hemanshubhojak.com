@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Hemanshu Bhojak
+email: hemanshubhojak@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://hemanshubhojak.com" # the base hostname & protocol for your site
+github_url:  "https://github.com/hemanshubhojak"
+linkedin_url: "https://www.linkedin.com/in/hemanshubhojak"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
