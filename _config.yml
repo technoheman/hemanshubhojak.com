@@ -8,6 +8,7 @@
 # Site settings
 title: Hemanshu Bhojak
 email: hemanshubhojak@gmail.com
+permalink: "/:year/:month/:day/:title.html"
 tagline: Musings of a curious mind
 description: > # this means to ignore newlines until "baseurl:"
  Musings of a curious mind
