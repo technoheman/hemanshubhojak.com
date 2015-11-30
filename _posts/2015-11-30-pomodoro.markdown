@@ -12,7 +12,8 @@ categories: pomodoro time-management
 
 ## How?
 
-* One Pomodoro is 25 minutes
+* Pomodoro is a unit of work
+	* One Pomodoro is equal to 25 minutes
 * Remove all distractions
 * Start the Pomodoro
 	* You can use a kicten timer, stop watch or a mobile app to keep track of the time
