@@ -4,3 +4,9 @@ title:  "Pomodoro"
 date:   2015-11-30 13:58:47 +0530
 categories: pomodoro time-management
 ---
+
+How?
+# One pomodoro is 25 minutes
+# 
+
+Why?
