@@ -5,8 +5,28 @@ date:   2015-11-30 13:58:47 +0530
 categories: pomodoro time-management
 ---
 
+What?
+
+* Pomodoro is a time management technique
+* Pomodoro is Italian for tomato  
+
 How?
-# One pomodoro is 25 minutes
-# 
+
+* One Pomodoro is 25 minutes
+* Remove all distractions
+* Start the Pomodoro
+	* You can use a kicten timer, stop watch or a mobile app to keep track of the time
+* Focus and work on the task for one Pomodoro
+	* Immerse yourself in the task
+* After every Pomodoro take a 5 minute break
+* After every 4 Pomodors take a 30 minute break
+* During the break
+	* Surf the internet, facebook, chat, eat, etc
+	* This refreshes the mind and prepares us for the next Pomodoro
+* Abandon the Pomodoro if you get distracted and start over
 
 Why?
+
+* It helps focus
+* It helps getting things done
+* Prevents burnout
