@@ -9,6 +9,7 @@
 title: Hemanshu Bhojak
 email: hemanshubhojak@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+Musings of a curious mind
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hemanshubhojak.com" # the base hostname & protocol for your site
 github_url:  "https://github.com/hemanshubhojak"
