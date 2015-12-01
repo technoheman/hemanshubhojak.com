@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keep your Entity Framework entities clean with EntityTypeConfiguration"
-date:   2015-12-01 00:00:00 +0530
+date:   2015-12-01 12:00:00 +0530
 categories: entity-framework entity-type-configuration mapping
 ---
 ## What?
