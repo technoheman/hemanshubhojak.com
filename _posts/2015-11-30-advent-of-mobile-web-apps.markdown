@@ -5,8 +5,6 @@ date: 2015-12-02 12:00:00 +0530
 categories: web-apps native-vs-web-apps chrome-as-a-platform
 ---
 
-# Advent of Mobile Web Apps
-
 ## Pros and Cons of Native and Web Applications
 
 * Native Apps
