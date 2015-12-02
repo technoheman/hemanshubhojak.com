@@ -43,7 +43,7 @@ categories: web-apps native-vs-web-apps chrome-as-a-platform
         * Single threaded
 
 
-## Things might change in the future
+## Modern Web Browsers
 
 * Google Chrome browser is now the most widely used web browser in the world
     * It is one of the best performing web browsers 
@@ -62,6 +62,10 @@ categories: web-apps native-vs-web-apps chrome-as-a-platform
     * A lot of transpilers are developed which enables you to write your javascript using the latest specification but which compiles to a version of javascript which will run on all browsers 
 * A lot of apps do not need all the device capabilities and can benefit a lot by converting it to a web app
 
-It looks like web applications may be the future of mobile applications.
+## How does the future look like?
+
+* Will people prefer using mobile web apps over native apps?
+* Will developers create more web apps than native apps?
+* Will Google Chrome become a platform in itself for mobile apps?
 
 Let me know your thoughts and opinions in the comments below.
