@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "SOLID Principles"
-date: 2016-05-09 01:00:00 +0530
+date: 2016-05-09 11:49:01 +0530
 categories: design design-principles solid
 ---
-
-## SOLID Principles
 
 ### (S) Single Responsibility Principle
 > A class should have only one reason to change
