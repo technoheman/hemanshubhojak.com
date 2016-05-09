@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SOLID Principles"
-date: 2016-05-09 11:49:01 +0530
+date: 2016-05-09 11:30:01 +0530
 categories: design design-principles solid
 ---
 
