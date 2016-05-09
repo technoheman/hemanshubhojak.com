@@ -19,4 +19,4 @@ linkedin_url: "https://www.linkedin.com/in/hemanshubhojak"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
