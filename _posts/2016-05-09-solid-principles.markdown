@@ -7,13 +7,17 @@ categories: design design-principles solid
 
 ## SOLID Principles
 
-* Single Responsibility Principle
+### Single Responsibility Principle
 > A class should have only one reason to change
-* Open and Closed Principle
+
+### Open and Closed Principle
 > Classes should be open for extension but closed for modification
-* Liskovs Substitution Principle
+
+### Liskovs Substitution Principle
 > Derived classes should be substitutable for their base classes 
-* Interface Segregation Principle
+
+### Interface Segregation Principle
 > Client's should not be forced to implement an interface they don't use
-* Dependency Inversion Principle
+
+### Dependency Inversion Principle
 > Program to an interface not implementation
