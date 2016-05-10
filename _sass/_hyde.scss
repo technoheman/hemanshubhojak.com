@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 1.4em;
+    font-size: 1.2em;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 1.4em;
+    font-size: 1.2em;
   }
 }
 
@@ -86,19 +86,40 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem;
+  margin: 2rem 0 .5rem;
 }
 .sidebar-nav-item {
-  display: block;
+  display: inline;
+  letter-spacing: .5em;
   line-height: 1.75;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+
+.fa::before{
+  font: normal normal normal 14px/1 FontAwesome;
+}
+
+.linkedin::before{
+  content: "\f08c";
+  font-size: 1.5em;
+}
+
+.github::before{
+  content: "\f09b";
+  font-size: 1.5em;
+}
+
+.rss::before{
+  content: "\f143";
+  font-size: 1.5em;
+}
+
 
 /* Sticky sidebar
  *

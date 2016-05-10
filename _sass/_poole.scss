@@ -347,9 +347,6 @@ tbody tr:nth-child(odd) th {
 /* Meta data line below post title */
 .post-date {
   display: inline;
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
-  color: #9a9a9a;
 }
 
 /* Related posts */
@@ -431,7 +428,9 @@ a.pagination-item:hover {
 
 //
 .post-meta{
-    color: $grey-color;
+    color: #9a9a9a;
+    font-size: 1em;
+    margin-bottom: 4em;
 }
 
 .post-tags{
@@ -463,4 +462,5 @@ a.pagination-item:hover {
 a.post-comments{
   color: $grey-color;
   text-transform: lowercase;
+  font-size: .8em;
 }
