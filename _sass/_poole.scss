@@ -453,3 +453,13 @@ a.pagination-item:hover {
     padding-right: 5px;
     content: "\f073";
 }
+
+.post-comments::before{
+    font: normal normal normal 14px/1 FontAwesome;
+    padding-right: 5px;
+    content: "\f075";
+}
+
+a.post-comments{
+  color: $grey-color;
+}
