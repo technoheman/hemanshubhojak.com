@@ -7,26 +7,12 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-.post-meta{
-    color: $grey-color;
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome-webfont.eot?v=4.6.2');
+  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.6.2') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.6.2') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.6.2') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.6.2') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.6.2#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
-.post-tags{
-    margin-right: 10px;
-}
-
-.post-tags::before{
-    font: normal normal normal 14px/1 FontAwesome;
-    content: "\f02c"; 
-    padding-right: 5px;
-}
-
-.post-date{
-    margin-right: 10px;
-}
-
-.post-date::before{
-    font: normal normal normal 14px/1 FontAwesome;
-    padding-right: 5px;
-    content: "\f073";
-}
+@import "poole", "hyde", "syntax";

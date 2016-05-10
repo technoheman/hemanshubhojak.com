@@ -428,3 +428,28 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+//
+.post-meta{
+    color: $grey-color;
+}
+
+.post-tags{
+    margin-right: 10px;
+}
+
+.post-tags::before{
+    font: normal normal normal 14px/1 FontAwesome;
+    content: "\f02c"; 
+    padding-right: 5px;
+}
+
+.post-date{
+    margin-right: 10px;
+}
+
+.post-date::before{
+    font: normal normal normal 14px/1 FontAwesome;
+    padding-right: 5px;
+    content: "\f073";
+}
