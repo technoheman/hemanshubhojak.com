@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Advent of Mobile Web Apps"
-date: 2015-12-02 12:00:00 +0530
+date: 2015-12-02 01:00:00
 categories: web-apps native-vs-web-apps chrome-as-a-platform
 ---
 

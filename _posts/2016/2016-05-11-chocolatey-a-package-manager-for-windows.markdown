@@ -14,23 +14,23 @@ Chocolatey is like [apt-get](https://en.wikipedia.org/wiki/Advanced_Packaging_To
 Installing and updating software is a breeze with Chocolatey using very simple commands. 
 
 - Install a package
-{% highlight bash %}
-$ choco install notepadplusplus
-{% endhighlight %}
+```
+C:\> choco install notepadplusplus
+```
 
 - Search for a package
-{% highlight bash %}
-$ choco search notepadplusplus
-{% endhighlight %}
+```
+C:\> choco search notepadplusplus
+```
 
 - List all installed packages
-{% highlight bash %}
-$ choco list --localOnly
-{% endhighlight %}
+```
+C:\> choco list --localOnly
+```
 
 - Upgrade chocolatey using chocolatey ;) 
-{% highlight bash %}
-$ choco upgrade chocolatey
-{% endhighlight %}
+```
+C:\> choco upgrade chocolatey
+```
 
 You can find more usage at [Chocolatey's Wiki](https://github.com/chocolatey/choco/wiki).   
