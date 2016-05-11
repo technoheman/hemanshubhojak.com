@@ -13,12 +13,12 @@ Chocolatey is like [apt-get](https://en.wikipedia.org/wiki/Advanced_Packaging_To
 
 Installing and updating software is a breeze with Chocolatey using very simple commands. 
 
-- Installing a package
+- Install a package
 {% highlight bash %}
 $ choco install notepadplusplus
 {% endhighlight %}
 
-- To search for a package
+- Search for a package
 {% highlight bash %}
 $ choco search notepadplusplus
 {% endhighlight %}
