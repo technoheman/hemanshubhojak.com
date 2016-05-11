@@ -21,3 +21,6 @@ linkedin_url: "https://www.linkedin.com/in/hemanshubhojak"
 markdown: kramdown
 highlighter: rouge
 encoding: utf-8
+
+gems:
+  - jekyll-seo-tag
