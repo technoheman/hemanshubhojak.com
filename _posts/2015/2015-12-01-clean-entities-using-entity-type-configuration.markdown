@@ -24,7 +24,7 @@ categories: entity-framework entity-type-configuration mapping
 
 **Entity**
 
-{% highlight csharp %}
+```csharp
 public class Employee
 {
     public int Id{ get; set; }
@@ -32,11 +32,11 @@ public class Employee
     public string LastName{ get; set; }
     public string Email{ get; set; }
 }
-{% endhighlight %}
+```
 
 **Mapping Class**
 
-{% highlight csharp %}
+```csharp
 public class EmployeeMap : EntityTypeConfiguration<Employee>
 {
     public EmployeeMap()
@@ -51,11 +51,11 @@ public class EmployeeMap : EntityTypeConfiguration<Employee>
         Property(x => x.Email).HasColumnName("Email");
     }
 }
-{% endhighlight %}
+```
 
 **DbContext**
 
-{% highlight csharp %}
+```csharp
 public class MyDbContext : DbContext
 {
     public MyDbContext() : base("ConnectionStringKey")
@@ -71,4 +71,4 @@ public class MyDbContext : DbContext
         base.OnModelCreating(builder);
     }
 }
-{% endhighlight %}
+```
