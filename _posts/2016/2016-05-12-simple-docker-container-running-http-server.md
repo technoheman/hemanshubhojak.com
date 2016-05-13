@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Running a static website in Docker"
+title:  "Simple Docker container running a http server"
 date: 2016-05-12 09:00:00
-categories: docker static-website http-server
+categories: docker container static-website http-server
 ---
 
 In this exercise we will create a Docker container which will run a simple http server.
@@ -121,7 +121,7 @@ The option ```-p``` and ```8080:8080```  binds the host port to the container po
 
 In order to test this we need to know the IP Address of the virtual machine which runs the container. 
 
-Run the following command to find the IP Address of your Docker virtual machine.
+Run the following command to find the IP Address of your Docker virtual machine. It is under the URL column and looks like ```tcp://<virtualmachine_ipaddress>:<port>```.
 
 ```
 docker-machine ls
