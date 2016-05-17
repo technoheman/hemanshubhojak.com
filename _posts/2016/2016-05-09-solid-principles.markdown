@@ -2,6 +2,7 @@
 layout: post
 title:  "SOLID Principles"
 date: 2016-05-09 13:00:00
+tags: ['design', 'design-principles', 'solid']
 categories: design design-principles solid
 ---
 

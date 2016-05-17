@@ -2,6 +2,7 @@
 layout: post
 title:  "Chocolatey: A package manager for Windows"
 date: 2016-05-11 01:00:00
+tags: ['chocolatey', 'package-manager', 'windows-package-manager']
 categories: chocolatey package-manager windows-package-manager
 ---
 

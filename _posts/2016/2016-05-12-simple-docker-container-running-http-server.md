@@ -2,6 +2,7 @@
 layout: post
 title:  "Simple Docker container running a http server"
 date: 2016-05-12 09:00:00
+tags: ['docker', 'container', 'static-website', 'http-server']
 categories: docker container static-website http-server
 ---
 
