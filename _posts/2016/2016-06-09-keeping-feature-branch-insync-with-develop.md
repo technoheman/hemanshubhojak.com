@@ -11,6 +11,8 @@ it is a good practice to keep your feature branch in sync with the develop branc
 I do the following to keep my feature branch in sync with develop.
 
 ```
+git checkout develop    #if you don't have it already
+git checkout feature/x  #if you don't have it already
 git pull --all
 git merge develop
 ``` 
