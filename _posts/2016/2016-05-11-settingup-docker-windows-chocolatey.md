@@ -2,6 +2,7 @@
 layout: post
 title:  "Setting up Docker on Windows using Chocolatey"
 date: 2016-05-11 08:31:00
+tags: ['docker', 'windows', 'chocolatey', 'container']
 categories: docker windows chocolatey container
 ---
 

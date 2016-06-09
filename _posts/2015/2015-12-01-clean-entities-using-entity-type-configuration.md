@@ -2,6 +2,7 @@
 layout: post
 title:  "Keep your Entity Framework entities clean with EntityTypeConfiguration"
 date:   2015-12-01 01:00:00
+tags: ['entity-framework', 'entity-type-configuration', 'mapping']
 categories: entity-framework entity-type-configuration mapping
 ---
 ## What?

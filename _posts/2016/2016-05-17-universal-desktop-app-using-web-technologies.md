@@ -2,6 +2,7 @@
 layout: post
 title:  "Universal Desktop Apps using Web technologies"
 date: 2016-05-17 03:44:00
+tags: ['universal-desktop-apps', 'electron']
 categories: universal-desktop-apps electron
 ---
 

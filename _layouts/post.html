@@ -7,7 +7,7 @@ layout: default
   
   <div class="post-meta">
     <span class="post-date">{{ page.date | date_to_string }}</span> 
-    <span class="post-tags">{{ page.categories | join: ', ' }}</span>
+    <span class="post-tags">{{ page.tags | join: ', ' }}</span>
   </div>
   
   {{ content }}
