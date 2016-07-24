@@ -2,7 +2,7 @@
 layout: post
 title:  "Git: Create a remote branch"
 date: 2016-07-20 11:06:00
-categories: git
+tags: ["git"]
 ---
 
 1. Create a local branch
