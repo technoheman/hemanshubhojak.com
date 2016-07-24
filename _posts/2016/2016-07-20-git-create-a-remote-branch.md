@@ -10,6 +10,7 @@ tags: ["git"]
   ```
   git checkout -b feature/somefeature
   ```
+
 2. Push the local branch to the remote server and optionally set upstream with ```-u``` so that the subsequent ```git pull``` will know what to do.
 
   ```
