@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maths: Why is 0! = 1?"
-date: 2016-08-01 22:53:00
+date: 2018-03-01 10:31:00
 tags: ["maths", "factorial", "intuition"]
 ---
 
