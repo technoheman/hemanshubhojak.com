@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Maths: Why is 0! = 1?"
-date: 2018-03-01 10:31:00
+date: 2018-03-09 10:31:00
 tags: ["maths", "factorial", "intuition"]
 ---
-
-# Why is 0!=1?
 
 Let's find factorial of numbers from 0 to 4
 
