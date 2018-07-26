@@ -66,4 +66,4 @@ You can also `right click->properties` on your project and modify the `Debug->Ap
 
 # Run
 
-Run the project now and it should work on your custom domain locally. Sometimes the browsers cache the DNS for sometime, in which case it may not work right away. Give it about 5 mins and try again and it should work. If not try searching online, ways to flush cache of the browser you use.
+Run the project now and it should work on your custom domain locally. Browser usually cache the DNS for sometime, in which case it may not work right away. Give it about 5 mins and try again and it should work. If not try searching online, ways to flush cache of the browser you use.
