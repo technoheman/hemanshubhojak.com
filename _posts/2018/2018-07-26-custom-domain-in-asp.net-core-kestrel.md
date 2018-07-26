@@ -10,6 +10,7 @@ tags: ["asp.net core", "kestrel", "custom domain"]
 This file is usually located at
 
     %SYSTEMROOT%\System32\drivers\etc\hosts
+
 `%SYSTEMROOT%` is usually `C:\Windows`
 
 Add the following line at the end of that file
@@ -45,11 +46,11 @@ Run the following command to test the above changes. The ping command should res
 	
 # Update IWebHostBuilder
 
-            return WebHost.CreateDefaultBuilder(args)
-                .UseUrls("http://hemanshubhojak.com:8866")
-                .UseNLog()
-                .UseStartup<Startup>()
-                .Build();
+       return WebHost.CreateDefaultBuilder(args)
+           .UseUrls("http://hemanshubhojak.com:8866")
+           .UseNLog()
+           .UseStartup<Startup>()
+           .Build();
 
 # Update Launch Settings
 
