@@ -9,6 +9,7 @@ tags: ["git", "import"]
 git clone --bare https://source-domain.com/source-repo.git
 ```
 
+
 ```
 git push --mirror https://destination-domain.com/destination-repo.git
 ```
