@@ -6,7 +6,7 @@ tags: ['docker', 'windows', 'chocolatey', 'container']
 categories: docker windows chocolatey container
 ---
 
-# Installing Chocolatey
+## Installing Chocolatey
 
 [Chocolatey](https://chocolatey.org/) is an [awesome package manager for Windows](/2016/05/11/chocolatey-a-package-manager-for-windows.html) (like apt-get) which makes installing software a breeze.
 
@@ -22,7 +22,7 @@ Verify that we have successfully installed Chocolatey.
 C:\> choco -v
 ```
 
-# Installing Docker Components
+## Installing Docker Components
 
 We will need the following components in order to create and host [Docker](https://www.docker.com/) containers on our local machine.
 
@@ -31,7 +31,7 @@ We will need the following components in order to create and host [Docker](https
  3. Docker Machine
  4. Docker Compose
  
-## Virtual Box
+### Virtual Box
 
 Docker uses virtual machines to host and run containers. It supports VirtualBox, VMWare, Hyper-V along with some other cloud based virtualization products.
 
@@ -41,7 +41,7 @@ For this exercise we will use VirtualBox. Run the following command to install V
 C:\> choco install virtualbox
 ```
 
-## Docker Client
+### Docker Client
 
 Docker client is used to manage images and containers. It is used to build images and run containers.
 
@@ -56,7 +56,7 @@ C:\> docker -v
 Docker version 1.11.1, build 5604cbe
 ```
 
-## Docker Machine
+### Docker Machine
 
 Containers are run within virtual machines. Docker machine is used to create and manage virtual machines.
 
@@ -71,7 +71,7 @@ C:\> docker-machine -v
 docker-machine version 0.7.0, build a650a40
 ```
 
-## Docker Compose
+### Docker Compose
 
 Docker compose is mainly used to compose and run multiple docker containers. This is useful when we have separate containers to run the application, database, etc. 
 
@@ -86,7 +86,7 @@ C:\> docker-compose -v
 docker-compose version 1.7.1, build unknown
 ```
 
-# Finally, our first docker container :)
+## Finally, our first docker container :)
 
 Now that we have all the required components in place, let us create and run our first container.
 
