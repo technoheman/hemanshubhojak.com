@@ -23,7 +23,7 @@ markdown: kramdown
 highlighter: rouge
 encoding: utf-8
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
